@@ -1,5 +1,5 @@
 # Networked-Connect-Four
-Authors - Rimsha Rizvi & Gianpaolo Lombardi
+Author: Rimsha Rizvi
 
 ## Description
 In this project, we implemented a two-player Connect Four game, where each player is a separate client, and the game is hosted by a server. The server and clients will be on the same machine, with the server choosing a local host port and the clients knowing the local host and port number. After each game, clients have the option to play again or quit. All networking is done using Java Sockets, and the server runs on its thread, handling each client on separate threads.
@@ -27,6 +27,4 @@ Connect Four is played on a 7x6 grid, and players take turns dropping checkers i
       Win/tie screen with options to play again or exit the program.
 
 ## Copyright and Plagiarism Notice
-All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi & Gianpaolo Lombardi and is protected by copyright laws. This work is submitted for CS 342 Project 3 at the University of Illinois at Chicago.
-Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
-If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
+All content in this repository belongs to the author. If you would like to use this work for educational or other non-commercial purposes, don't hesitate to get in touch with the author for permission.
